@@ -1,4 +1,4 @@
-# Airbron_optical_character_recognization
+# Airborn_optical_character_recognization
 A computer vision application that enables users to write and draw characters in the air using hand gestures. The system tracks hand movements through a webcam and converts them into digital drawings in real time using MediaPipe and OpenCV.
 
 ## 🚀 Features
